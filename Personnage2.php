@@ -5,9 +5,9 @@
  */
 class Personnage2
 {
-    public string $nom;
+    public $nom;
 
-    public function __construct ( string $nom )
+    public function __construct ( $nom )
     {
         $this->nom = $nom;
     }
