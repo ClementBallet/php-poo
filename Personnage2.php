@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Exemple de classe avec constructeur avec typage des variables et des méthodes
+ * Exemple de classe avec constructeur
  */
 class Personnage2
 {
